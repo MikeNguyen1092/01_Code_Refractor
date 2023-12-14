@@ -85,17 +85,17 @@ aside {
     background-color: #2589bd;
 }
 
-.sidebar {
+aside div {
     margin-bottom: 32px;
     ;
 }
 
-.sidebar h3 {
+aside div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.sidebar img {
+aside div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
