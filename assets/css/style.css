@@ -101,7 +101,7 @@ aside div img {
     max-width: 150px;
 }
 
-.section {
+section div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -110,11 +110,11 @@ aside div img {
     ;
 }
 
-.section img {
+section div img {
     max-height: 200px;
 }
 
-.section h2 {
+section div h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
